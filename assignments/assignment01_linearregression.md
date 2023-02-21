@@ -3,7 +3,7 @@ In this assignment, you will:
 - Implement the **R-Squared** metrics for evaluating the model.
 
 # Instructions
-The main file you are working with in this assignment is at [PATH!](code/src/models/model.py)
+The main file you are working with in this assignment is at [PATH!](../code/src/models/model.py)
 
 In this file, you will need to complete every `TODO` by replacing the `None` with a proper code to make the algorithm works correctly.
 
